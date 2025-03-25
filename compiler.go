@@ -12,7 +12,7 @@ type token struct {
 	value string
 }
 
-func tokenizer(input string) []token {
+func tokenizer(input string) []toke {
 	input += "\n"
 	current := 0
 	tokens := []token{}
