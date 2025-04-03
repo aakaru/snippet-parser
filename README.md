@@ -26,15 +26,6 @@ For those interested in compiler design, this project serves as a starting point
 - Code transformation
 - Basic code generation techniques
 
-## Limitations ⚠️
-
-This is a minimal compiler implementation and does not support:
-- Complex language features
-- Type checking
-- Optimization
-- Multiple programming languages
-- Advanced syntax
-
 ## Contributing 🤝
 
 Contributions, issues, and feature requests are welcome!
